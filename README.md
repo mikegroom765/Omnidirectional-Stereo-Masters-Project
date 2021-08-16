@@ -1,6 +1,9 @@
 # Omnidirectional-Stereo-Masters-Project
 This repository contains the results of my Final Year Research & Development Project at Durham University.
-There are a few videos missing because they are larger than the file size limit of 25MB. 
+There are a few files/folders missing because they are larger than the file size limit of 25MB contain too many files. 
+The most important missing folder is named data, located in the OmnidirProject folder, to see the file structure i've recreated it in a google drive: 
+
+https://drive.google.com/drive/folders/1jPppsRbSW1FJ_pvVocgB9Cv6IUbYQ_hv?usp=sharing
 
 Omnidirectional Stereo Vision (2021) - Durham University
 Author: Michael Groom
