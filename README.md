@@ -1,5 +1,6 @@
 # Omnidirectional-Stereo-Masters-Project
 This repository contains the results of my Final Year Research & Development Project at Durham University.
+There are a few videos missing because they are larger than the file size limit of 25MB. 
 
 Omnidirectional Stereo Vision (2021) - Durham University
 Author: Michael Groom
