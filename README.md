@@ -76,6 +76,10 @@ named "back_camera_params_OCam.xml" and "front_camera_params_OCam.xml" containin
 camera parameters. The 4 text files produced from the OCamCalib Matlab toolbox and these
 two .xml files should be placed in the calibration_paramters_OCamCalib folder. 
 
+########################### Paper ###############################################
+
+The paper we published from this project is available here: https://ieeexplore.ieee.org/document/9956197
+A free version is also available here: https://breckon.org/toby/publications/papers/groom22omnidirectional.pdf
 
 ################################ Notes ########################################
 
